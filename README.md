@@ -56,10 +56,9 @@ Project Structure
 web-developer-practical-round/
   ├── node_modules/         # Installed npm packages
   ├── app.js                # Main application file
-  ├── login.js              # Login page logic
-  ├── home.js               # Home page logic
+  ├── login.html              # Login page logic
+  ├── home.html               # Home page logic
   ├── package.json          # Project configuration and dependencies
-  └── styles.css            # Custom CSS styles
 
 
 
